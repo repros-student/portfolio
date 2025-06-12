@@ -29,6 +29,11 @@ section {
   padding: 20px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+
+.highlight {
+  background-color: #98e192;
+}
+
 footer {
   text-align: center;
   padding: 20px;
